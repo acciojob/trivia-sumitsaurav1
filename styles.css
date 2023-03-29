@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+*{
+	font-weight: bold;
+}
+.ans{
+	background-color: #f8fffe;
+	padding: 15px;
+	margin: 10px;
+	border-left: 8px solid green;
+	max-width: 600px;
+}
